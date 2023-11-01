@@ -45,3 +45,8 @@ yarn-error.log*
 
 # Contentlayer
 .contentlayer
+
+#workspace settings
+.vscode/
+to-do.md
+README_copy.md
